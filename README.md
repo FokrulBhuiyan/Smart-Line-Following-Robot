@@ -1,4 +1,4 @@
-# Smart-Robot
+# Smart-Line-Following-Robot
 
 This project was done by
 
